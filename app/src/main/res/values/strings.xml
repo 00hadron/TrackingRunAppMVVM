@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RunningApp</string>
+    <string-array name="filter_options">
+        <item>Date</item>
+        <item>Running Time</item>
+        <item>Distance</item>
+        <item>Average Speed</item>
+        <item>Calories Burned</item>
+    </string-array>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">add_you_google_map_key_here</string>
+    <string name="you_need_to_accept_permissions">You need to accept permissions.</string>
+    <string name="enter_all_fields">Please, enter all the fields!</string>
+    <string name="run_saved_successfully">Run saved successfully</string>
+    <string name="dialog_cancel_the_run_q">Cancel the Run?</string>
+    <string name="dialog_cancel_the_run_message_q">Are you sure to cancel current Run and delete all it\'s data?</string>
+    <string name="bardataset_label">Avg Speed Over Time</string>
+</resources>
